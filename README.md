@@ -1,4 +1,4 @@
-<h1 align="center" >𝐀𝐧𝐝𝐫𝐢𝐢 𝐙𝐚𝐤𝐡𝐚𝐫𝐨𝐯</h1>
+<h1 align="center" >𝐀𝐧𝐝𝐫𝐢𝐢  𝐙𝐚𝐤𝐡𝐚𝐫𝐨𝐯</h1>
 
 <h3 align="center">𝔹𝕒𝕔𝕜-𝕖𝕟𝕕 <a href="https://www.oracle.com/" target="_blank">𝕁𝕒𝕧𝕒</a> 𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣</h3>
 <p align="center">I am a back-end Java Developer with strong problem-solving skills, ability to learn quickly, and adapt to new technologies and development practices. I am able to analyze complex problems and develop effective solutions that meet project requirements.</p>
